@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+img{
+    border:3px red solid ;
+    border-radius: 20px;
+    margin: 20px;
+    float: left;
+    width: 200px;
+}
+p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: antiquewhite;
+}
+main{
+    background-color: silver;
+    width: 60%;
+    padding:5px;
+    margin:auto;
+}
+h2{
+    text-align: center;
+    margin: 5px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.j{
+    float: right;
+}
